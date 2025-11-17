@@ -1,0 +1,31 @@
+tenant_id,tenant_name,industry,annual_revenue,credit_rating
+T001,"Rodriguez, Figueroa and Sanchez",Tech,12471301,AAA
+T002,Doyle Ltd,Tech,23456905,AA
+T003,"Mcclain, Miller and Henderson",Healthcare,14364231,B
+T004,Davis and Sons,Retail,41598928,AAA
+T005,"Guzman, Hoffman and Baldwin",Logistics,33314694,AAA
+T006,"Gardner, Robinson and Lawrence",Retail,11287781,AA
+T007,Blake and Sons,Healthcare,38913819,BB
+T008,"Henderson, Ramirez and Lewis",Retail,42664518,AA
+T009,Garcia-James,Tech,48613006,B
+T010,Abbott-Munoz,Logistics,33153498,AA
+T011,Blair PLC,Restaurants,44544950,A
+T012,Dudley Group,Retail,15714555,B
+T013,Arnold Ltd,Restaurants,27833825,A
+T014,"Mcclure, Ward and Lee",Healthcare,19449461,A
+T015,Williams and Sons,Retail,11224068,BBB
+T016,Galloway-Wyatt,Retail,29090698,A
+T017,James Group,Logistics,22751694,AAA
+T018,"Flowers, Martin and Kelly",Tech,35831481,BB
+T019,"Adams, Zuniga and Wong",Retail,30403012,AAA
+T020,"Reid, Ferguson and Sanchez",Logistics,24674861,B
+T021,Gray-Mayo,Logistics,29268915,BB
+T022,"Watts, Robinson and Nguyen",Healthcare,9667767,AAA
+T023,Perez Inc,Tech,20293994,A
+T024,Morales-Jones,Retail,20622331,AAA
+T025,"Walter, Edwards and Rios",Restaurants,23654492,BBB
+T026,Wilkerson-Day,Tech,29483473,AA
+T027,Baker and Sons,Manufacturing,28841813,AA
+T028,"Hoffman, Baker and Richards",Tech,22916578,B
+T029,"Ross, Robinson and Bright",Tech,48488918,AAA
+T030,"Snyder, Campos and Callahan",Logistics,47612671,AA
