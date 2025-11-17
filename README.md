@@ -1,3 +1,5 @@
+This repository is part of my personal data analytics portfolio. Please do not reproduce or distribute content without credit.
+
 # End-to-End Snowflake Data Analytics Project: Tenant Credit Risk Dashboard
 
 🏗️ **Project Overview**  
