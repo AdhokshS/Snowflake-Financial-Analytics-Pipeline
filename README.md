@@ -1,6 +1,8 @@
 This repository is part of my personal data analytics portfolio. Please do not reproduce or distribute content without credit.
 
 # End-to-End Snowflake Data Analytics Project: Tenant Credit Risk Dashboard
+<img width="1373" height="755" alt="image" src="https://github.com/user-attachments/assets/169af775-5bf2-4033-963e-b0e3722547de" />
+
 
 🏗️ **Project Overview**  
 An end-to-end data analytics and automation project designed to demonstrate how Snowflake, Python, and Power BI can work together to analyze and predict tenant-level credit risk.  
