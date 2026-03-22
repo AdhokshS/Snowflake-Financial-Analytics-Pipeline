@@ -1,56 +1,103 @@
-This repository is part of my personal data analytics portfolio. Please do not reproduce or distribute content without credit.
-
-# End-to-End Snowflake Data Analytics Project: Tenant Credit Risk Dashboard
-<img width="1373" height="755" alt="image" src="https://github.com/user-attachments/assets/169af775-5bf2-4033-963e-b0e3722547de" />
-
-
-🏗️ **Project Overview**  
-An end-to-end data analytics and automation project designed to demonstrate how Snowflake, Python, and Power BI can work together to analyze and predict tenant-level credit risk.  
-The solution simulates a financial operations workflow—from raw data ingestion to machine learning and interactive reporting.
+# 🚀 Portfolio Decision Intelligence Engine (Data → Strategy System)
 
 ---
 
-## 🔧 Tech Stack
-- **Snowflake** – Cloud data warehouse for data storage and transformation  
-- **Python (Pandas, scikit-learn)** – Data preparation and machine learning  
-- **SQL** – KPI aggregation and risk metric computation  
-- **Power BI** – Visualization and interactive dashboarding  
+## 🔍 Problem
+
+Organizations generate large volumes of financial and operational data, but most systems stop at reporting.
+
+Leadership teams still struggle to answer:
+- Which portfolios are truly performing?
+- Where is hidden risk building up?
+- How should strategy shift based on current signals?
+
+Traditional dashboards provide visibility — but not **decision clarity**.
 
 ---
 
-## ⚙️ Workflow Summary
-1. **Data Generation:** Synthetic data simulating tenant payments, rent, and cashflow trends created in Python.  
-2. **Snowflake Data Modeling:** Tables and analytical views created to calculate payment delays, rent collection %, and coverage ratios.  
-3. **Risk Modeling:** Random Forest classifier used to label tenants as *High* or *Low Risk* based on KPIs.  
-4. **Power BI Visualization:** Interactive dashboard built to monitor rent efficiency, payment discipline, and portfolio health.
+## 💡 Solution
+
+Developed a **Decision Intelligence Engine** that transforms raw financial data into **actionable strategic signals**.
+
+Instead of just reporting metrics, the system evaluates portfolios across multiple dimensions and identifies:
+- Growth potential  
+- Stability  
+- Risk exposure  
+- Strategic positioning  
+
+This enables a shift from **data analysis → decision-making**.
 
 ---
 
-## 📊 Key Insights
-- Identified tenants with delayed payments and low coverage ratios.  
-- Segmented portfolio by industry and risk profile.  
-- Demonstrated scalable Snowflake–Python integration for financial analytics.
+## 📈 Business Impact
+
+- Converts raw financial data into decision-ready insights  
+- Reduces dependency on manual analysis  
+- Enables faster and more confident portfolio decisions  
+- Demonstrates scalable architecture for enterprise analytics systems  
 
 ---
 
-## 📂 Repository Contents
-| File | Description |
-|------|--------------|
-| `generate_portfolio_data.py` | Generates synthetic tenant, property, and payment data |
-| `credit_risk_model.py` | Connects Python to Snowflake and trains the ML model |
-| `schema_and_view.sql` | SQL scripts for database, schema, and KPI view creation |
-| `Tenant_Risk_Dashboard.pbix` | Power BI dashboard file |
-| `Tenant_Risk_Scored.csv` | Final dataset with risk predictions |
-| `project_summary.pdf` | One-page business summary of the project |
+## 🧠 Core Intelligence Layer
+
+The system evaluates portfolios using key signals:
+
+- **Growth** → Revenue / expansion trends  
+- **Stability** → Consistency of performance  
+- **Risk** → Volatility and exposure  
+- **Diversification** → Portfolio concentration  
+
+These signals are combined into a structured framework to guide decision-making.
 
 ---
 
-## 🧠 Business Context
-This project reflects how modern financial analytics teams integrate **data warehousing, automation, and visualization** to drive insights.  
-The same pipeline can be adapted for:
-- Credit performance tracking  
-- Rent/lease management  
-- Portfolio performance analytics  
-- Predictive finance dashboards
+## ⚙️ System Architecture
+
+1. Data ingestion into Snowflake  
+2. Data transformation and modeling  
+3. Feature engineering (signal creation)  
+4. Scoring logic across portfolios  
+5. Strategy classification (Growth / Risk / Balanced)  
+6. Output layer for decision support  
 
 ---
+
+## 🛠️ Tech Stack
+
+- Snowflake (Data Warehouse)  
+- Python  
+- SQL  
+- Data Modeling & Transformation  
+
+---
+
+## 🚀 Key Features
+
+- End-to-end data-to-decision pipeline  
+- Multi-signal evaluation framework  
+- Strategy classification layer  
+- Scalable Snowflake-based architecture  
+- Designed for real-world business use cases  
+
+---
+
+## 📸 Sample Output
+
+Real portfolio evaluation output:
+
+![Demo](demo.png)
+
+---
+
+## 🔮 Future Enhancements
+
+- Real-time decision engine  
+- AI-driven strategy recommendations  
+- Interactive dashboard (Streamlit / BI tools)  
+- Scenario simulation (what-if analysis)  
+
+---
+
+## 📌 Positioning Note
+
+This project is designed as a **decision-support system**, not just a data pipeline — with applications in finance, portfolio management, and enterprise strategy.
