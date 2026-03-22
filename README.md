@@ -85,7 +85,7 @@ These signals are combined into a structured framework to guide decision-making.
 
 Real portfolio evaluation output:
 
-![Demo](demo.png)
+![Demo](demo1.png)
 
 ---
 
