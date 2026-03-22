@@ -87,6 +87,23 @@ Real portfolio evaluation output:
 
 ![Demo](demo1.png)
 
+## 📊 Interactive Dashboard (Power BI)
+
+To make the decision intelligence system more accessible for business users, an interactive Power BI dashboard has been developed.
+
+This dashboard enables:
+- Portfolio-level performance comparison  
+- Visualization of growth, risk, and stability signals  
+- Strategy classification insights  
+- Quick identification of high-risk or high-growth portfolios  
+
+📁 Power BI File:  
+[Download Dashboard](./Tenant_Risk_Dashboard_V3.pbix)
+
+### 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ---
 
 ## 🔮 Future Enhancements
